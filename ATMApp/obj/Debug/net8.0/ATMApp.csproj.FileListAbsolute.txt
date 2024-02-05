@@ -1,0 +1,14 @@
+C:\Users\Naty's Work Laptop\source\repos\ATMApp\ATMApp\bin\Debug\net8.0\ATMApp.exe
+C:\Users\Naty's Work Laptop\source\repos\ATMApp\ATMApp\bin\Debug\net8.0\ATMApp.deps.json
+C:\Users\Naty's Work Laptop\source\repos\ATMApp\ATMApp\bin\Debug\net8.0\ATMApp.runtimeconfig.json
+C:\Users\Naty's Work Laptop\source\repos\ATMApp\ATMApp\bin\Debug\net8.0\ATMApp.dll
+C:\Users\Naty's Work Laptop\source\repos\ATMApp\ATMApp\bin\Debug\net8.0\ATMApp.pdb
+C:\Users\Naty's Work Laptop\source\repos\ATMApp\ATMApp\obj\Debug\net8.0\ATMApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naty's Work Laptop\source\repos\ATMApp\ATMApp\obj\Debug\net8.0\ATMApp.AssemblyInfoInputs.cache
+C:\Users\Naty's Work Laptop\source\repos\ATMApp\ATMApp\obj\Debug\net8.0\ATMApp.AssemblyInfo.cs
+C:\Users\Naty's Work Laptop\source\repos\ATMApp\ATMApp\obj\Debug\net8.0\ATMApp.csproj.CoreCompileInputs.cache
+C:\Users\Naty's Work Laptop\source\repos\ATMApp\ATMApp\obj\Debug\net8.0\ATMApp.dll
+C:\Users\Naty's Work Laptop\source\repos\ATMApp\ATMApp\obj\Debug\net8.0\refint\ATMApp.dll
+C:\Users\Naty's Work Laptop\source\repos\ATMApp\ATMApp\obj\Debug\net8.0\ATMApp.pdb
+C:\Users\Naty's Work Laptop\source\repos\ATMApp\ATMApp\obj\Debug\net8.0\ATMApp.genruntimeconfig.cache
+C:\Users\Naty's Work Laptop\source\repos\ATMApp\ATMApp\obj\Debug\net8.0\ref\ATMApp.dll
